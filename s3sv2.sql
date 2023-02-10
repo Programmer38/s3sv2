@@ -72,7 +72,7 @@ CREATE TABLE `configurations` (
 --
 
 INSERT INTO `configurations` (`id`, `token`, `chat_id`) VALUES
-(1, '6118985684:AAFEcpaaju9snJ70NgduF8hQKw6cfm6Lt8Q', '-');
+(1, '-', '-');
 
 -- --------------------------------------------------------
 
